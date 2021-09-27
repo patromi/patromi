@@ -2,5 +2,5 @@
 
 
 - 🔭 I’m currently working on Secret project :)
-- 🌱 I’m currently learning on ML
+- 🌱 I’m currently learning  ML
 - 📫 How to reach me: patromi123@gmail.com
