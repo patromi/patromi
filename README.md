@@ -30,6 +30,7 @@
 </div>
 
 ### :fire: My Stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patromi)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=patromi&theme=dark&background=000000)](https://git.io/streak-stats)
 ### Hi there 👋 My name is Patryk
 
