@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://ibb.co/f8Hrp91" width="100"/>
+  <img src="https://i.ibb.co/TKtP81v/baner.png" width="100"/>
 </div>
 
 ### Hi there 👋 My name is Patryk
