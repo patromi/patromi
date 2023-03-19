@@ -19,6 +19,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg"  title="Django" alt="Django" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg"  title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg"  title="oracle" alt="oracle" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"  title="mysql" alt="mysql" width="40" height="40"/>&nbsp;
+
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg"  title="docker" alt="docker" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg"  title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain.svg"  title="filezilla" alt="filezilla" width="40" height="40"/>&nbsp;
