@@ -10,7 +10,7 @@
 
 - :seedling: I’m currently working on my own project :) (Deploy soon!)
 
-- :mailbox:How to reach me: patromi123@gmail.com
+- :mailbox:How to reach me: Patryk.Migaj@kmksoftware.pl
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
