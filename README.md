@@ -1,9 +1,10 @@
-<div id="header" align="center">
-  <img style="border-radius: 10%;" src="https://i.ibb.co/TKtP81v/baner.png" width="100%"/>
-</div>
 <div id="header2" align="center">
   <img style="border-radius: 10%;" src="https://i.ibb.co/kQfhHM1/339582183-126956307024418-8118427249796977563-n.png" width="auto"/>
 </div>
+<div id="header" align="center">
+  <img style="border-radius: 10%;" src="https://i.ibb.co/TKtP81v/baner.png" width="100%"/>
+</div>
+
 <h1 align="center">
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
