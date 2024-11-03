@@ -39,6 +39,6 @@
 </div>
 
 ### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patromi&hide=java)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patromi&hide=java,HTML)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=patromi&theme=dark&mode=weekly)](https://git.io/streak-stats)
 
